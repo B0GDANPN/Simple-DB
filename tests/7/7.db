@@ -1,0 +1,3 @@
+{"name" : "Иванов А. С.", "birthday" : "10.01.2003", "id" : 1522347612, "department" : "ММФ", "group" : 22129, "student_id" : 421254, "course" : "Ан.геом", "groups" : [22129], "students" : [12455, 1251224]}
+{"name" : "Петров А. С.", "birthday" : "15.11.2003", "id" : 12545561, "department" : "ММФ", "group" : 22129, "student_id" : 12455, "course" : "Матан", "groups" : [22129], "students" : [421254, 1251224]}
+{"name" : "Сидорова А. С.", "birthday" : "12.02.2003", "id" : 77341241, "department" : "ММФ", "group" : 22129, "student_id" : 1251224, "course" : "Алгебра", "groups" : [22129], "students" : [12455, 421254]}

@@ -1,0 +1,1 @@
+get records where ((((name is "Кузнецов И. П." and course is set) or department is "ФФ") or course is set) or student_id is set)

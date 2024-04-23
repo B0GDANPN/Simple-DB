@@ -1,0 +1,2 @@
+get records where (department is "ММФ" or name is "Петрова И. К.") as students_mmf_and_petrova
+get records from students_mmf_and_petrova where group in (get records where course is "Ан.геом").groups

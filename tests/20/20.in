@@ -1,0 +1,1 @@
+get records where student_id in (get records where name is "Иванов С. В.").students

@@ -1,0 +1,2 @@
+get records where department is "ММФ" as table1
+get records from table1 where group is 22129

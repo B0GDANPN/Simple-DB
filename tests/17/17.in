@@ -1,0 +1,1 @@
+get records where student_id in (get records where group in (get records where course is "Программирование").groups).students

@@ -1,0 +1,2 @@
+get records where (student_id is set and department is "ММФ") as students_mmf
+get records from students_mmf where (group in (get records where name is "Кузнецова Л. И.").groups and group is 8126)

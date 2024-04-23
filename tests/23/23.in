@@ -1,0 +1,3 @@
+get records where student_id is set as students
+get records from students where course is set as assistant_students
+get records from assistant_students

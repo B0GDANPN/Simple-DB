@@ -1,0 +1,8 @@
+{"name" : "Иванов С. В.", "birthday" : "10.01.2003", "id" : 1522347612, "department" : "ММФ", "group" : 22129, "student_id" : 421254}
+{"name" : "Петрова И. К.", "birthday" : "15.03.2001", "id" : 8992141190, "department" : "ФФ", "group" : 19301, "student_id" : 235251}
+{"name" : "Медведев Т. С.", "birthday" : "31.12.2002", "id" : 124556132, "department" : "ФЕН", "group" : 19402, "student_id" : 715541}
+{"name" : "Зуброва Д. А.", "birthday" : "10.04.1991", "id" : 2952146170, "department" : "ММФ", "group" : 8126, "student_id" : 52341}
+{"name" : "Власов Г. В.", "birthday" : "23.07.1960", "id" : 4215161, "course" : "Ан.геом", "groups" : [19301, 22129], "students" : [52341, 235251]}
+{"name" : "Иванова В. В.", "birthday" : "10.01.2003", "id" : 1522347647, "department" : "ММФ", "group" : 22129, "student_id" : 421255}
+{"name" : "Ударников В. П.", "birthday" : "19.05.2000", "id" : 51261221, "department" : "ММФ", "group" : 17121, "student_id" : 124412, "course" : "Программирование-2", "groups" : [22129], "students" : []}
+{"name" : "Кузнецова Л. И.", "birthday" : "20.04.1980", "id" : 4215161, "course" : "Программирование", "groups" : [19129, 8126], "students" : [421254, 124412, 715541]}
